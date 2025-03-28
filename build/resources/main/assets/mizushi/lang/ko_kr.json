@@ -1,0 +1,7 @@
+{
+  "key.mizushi.fuga": "팔",
+  "key.mizushi.kai": "해",
+  "death.attack.mizushi_damage.player": "%1$s died robbed trying to escape %2$s",
+  "death.attack.mizushi_damage.item": "%1$s was robbed by %2$s",
+  "death.attack.mizushi_damage": "%1$s was robbed"
+}

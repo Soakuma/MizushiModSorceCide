@@ -1,0 +1,12 @@
+{
+  "_fv": 69,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.1,
+    "scaling": "never",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s was robbed",
+    "itemDeathMessage": "%1$s was robbed by %2$s",
+    "playerDeathMessage": "%1$s died robbed trying to escape %2$s"
+  }
+}
